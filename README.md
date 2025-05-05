@@ -64,6 +64,23 @@ relacionados con business intelligence y análisis espacial.
 
 ---
 
+## Addtional tools from Architecture and Project Management  
+## Herramientas adicionales de la Arquitectura y la Gestión de Proyectos
+
+Although my current focus is on data analytics and business intelligence,
+I also bring experience in tools commonly used in architecture and project management,
+which complement my analytical perspective:
+
+A pesar de que mi foco actual se sitúa en torno al análisis de datos y al business intelligence,
+también poseo experiencia en herramientas frecuentemente asociadas a la arquitectura y la gestión de proyectos,
+las cuales complementan mi perspectiva analítica:
+
+- **BIM & Design Tools**: Revit, AutoCad, SketchUp, 3DStudio & Photoshop.
+
+- **Project Management**: Microsoft Project
+
+---
+
 ## Contact  
 ## Contacto
 
@@ -71,4 +88,4 @@ You can contact me through jcristobalfdez@gmail.com
 Puedes ponerte en contacto conmigo a través de jcristobalfdez@gmail.com
 
 **GitHub:**
-[JCdatarchitect](https://github.com/JCdatarchitect)
+[JC-datarchitect](https://github.com/JCdatarchitect)
