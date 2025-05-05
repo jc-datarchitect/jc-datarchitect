@@ -88,4 +88,4 @@ You can contact me through jcristobalfdez@gmail.com
 Puedes ponerte en contacto conmigo a través de jcristobalfdez@gmail.com
 
 **GitHub:**
-[JC-datarchitect](https://github.com/JCdatarchitect)
+[JC-datarchitect](https://github.com/JC-datarchitect)
