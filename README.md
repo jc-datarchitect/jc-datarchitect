@@ -29,7 +29,7 @@ Mi trayectoria, combinando más de 10 años de experiencia en gestión de proyec
 ## Featured Projects  
 ## Proyectos Destacados
 
-- 🚀 **[TRIP_U: Intelligent Recommendation System & Sentiment Analysis](./trip-u)** *Master's Thesis (TFM)*. A complete, end-to-end data pipeline that integrates Natural Language Processing (NLP), recommendation modeling, and advanced Out-of-Distribution (OOD) detection to ensure system robustness. It features interactive flow maps using Plotly and multi-dimensional radar charts for business metrics.
+- **[TRIP_U: Intelligent Recommendation System & Sentiment Analysis](./trip-u)** *Master's Thesis (TFM)*. A complete, end-to-end data pipeline that integrates Natural Language Processing (NLP), recommendation modeling, and advanced Out-of-Distribution (OOD) detection to ensure system robustness. It features interactive flow maps using Plotly and multi-dimensional radar charts for business metrics.
   
   *Trabajo de Fin de Máster (TFM)*. Un pipeline de datos completo (end-to-end) que integra Procesamiento de Lenguaje Natural (NLP), modelos de recomendación y detección avanzada de datos fuera de distribución (OOD) para garantizar la robustez del sistema. Incluye mapas de flujo interactivos en Plotly y gráficos de araña multidimensionales para métricas de negocio.
 
