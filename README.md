@@ -19,10 +19,10 @@ Business Intelligence, Big Data, y herramientas como Power BI, Tableau, Carto, S
 ## Sobre mí
 
 I am an architect with a Master’s degree in Project Management and a Master's degree in Big Data and Artificial Intelligence.  
-My background combining over 10 years of management experience with advanced data techniques allows me to approach problems with a highly strategic, analytical, and spatial perspective, transforming raw data into informed and effective business decisions.
+My background combining over 10 years of project management experience with advanced data techniques allows me to approach problems with a highly strategic, analytical, and spatial perspective, transforming raw data into informed and effective business decisions.
 
 Soy arquitecto con un máster en Project Management y un máster en Big Data e Inteligencia Artificial.  
-Mi trayectoria, combinando más de 10 años de experiencia en gestión con técnicas avanzadas de datos, me permite abordar los problemas con una perspectiva altamente estratégica, analítica y espacial, transformando datos brutos en decisiones de negocio informadas y eficaces.
+Mi trayectoria, combinando más de 10 años de experiencia en gestión de proyectos con técnicas avanzadas de datos, me permite abordar los problemas con una perspectiva altamente estratégica, analítica y espacial, transformando datos brutos en decisiones de negocio informadas y eficaces.
 
 ---
 
