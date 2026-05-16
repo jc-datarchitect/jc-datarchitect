@@ -45,8 +45,7 @@ Calificado con un **9,13/10** por el tribunal académico, recibiendo menciones e
 The main goal of this repository is to document and showcase my production-ready developments in data science and business intelligence.  
 It includes real-world applications demonstrating how analytical tools can be blended with strategic management and spatial analysis to optimize technical and business outcomes.
 
-El objetivo principal de este repositorio es documentar y mostrar mis desarrollos orientados a producción en ciencia de datos y business intelligence.  
-Incluye aplicaciones del mundo real que demuestran cómo las herramientas analíticas se fusionan con la gestión estratégica y el análisis espacial para optimizar resultados técnicos y de negocio.
+El objetivo principal de este repositorio es documentar y mostrar mis desarrollos orientados a producción en ciencia de datos y business intelligence. Incluye aplicaciones del mundo real que demuestran cómo las herramientas analíticas se fusionan con la gestión estratégica y el análisis espacial para optimizar resultados técnicos y de negocio.
 
 ---
 
