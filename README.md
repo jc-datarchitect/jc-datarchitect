@@ -1,7 +1,8 @@
 # Professional Transition to the World of Data  
 # Transición Profesional hacia el Mundo de los Datos
 
-**I am an architect who thinks with data and an analyst who designs with spatial vision.** **Soy arquitecto que piensa con datos y analista que proyecta con visión espacial.**
+**I am an architect who thinks with data and an analyst who designs with spatial vision.** 
+**Soy arquitecto que piensa con datos y analista que proyecta con visión espacial.**
 
 This repository serves as my professional portfolio, reflecting my transition into the world of data.  
 Through advanced projects and specialized training, I apply my expertise in data analysis,  
