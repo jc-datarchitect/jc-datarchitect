@@ -31,7 +31,7 @@ My unique background combines over 10 years of international project management 
 * **The Empirical Pipeline:** Implements a quantitative data pipeline that structures, cleans, and standardizes socio-technical survey variables, transforming raw text-based inputs into a mature dimensional model (star schema) inside Power BI.
 * **The Structural Proposal:** Prototypes an Algorithmic Traceability System via a relational SQL schema designed to log data provenance, trace human-AI design lineage, and ensure transparent workflows in generative environments.
 
-**[Social Data Storytelling: Can Education Prevent Hate?](https://github.com/JC-datarchitect/social-data-storytelling)** *Advanced Data Visualization Project*
+**[Social Data Storytelling: Can Education Prevent Hate?](https://github.com/JC-datarchitect/social_data_storytelling)** *Advanced Data Visualization Project*
 * **Academic Recognition:** Awarded a near-perfect **9.9/10 (Matrícula de Honor)**, recognized as the top-tier capstone project for the Data Visualization module.
 * **The Core Investigation:** Built with a strong emphasis on *Data Storytelling*, this project transforms raw data into a compelling journalistic narrative. It analyzes the complex, non-linear relationships between hate crimes, educational levels, and social awareness metrics using real-world regional datasets.
 * **Technical Analytics:** Developed entirely in Python, leveraging libraries such as Matplotlib, Seaborn, and Plotly to engineer advanced, high-impact visualizations and exploratory charts that expose deep, counterintuitive socio-political insights.
