@@ -1,3 +1,85 @@
+# Javier Cristóbal Fernández
+### Architect & Urban Designer ➔ Big Data & BI Analyst
+
+> *"I am an architect who thinks with data and an analyst who designs with spatial vision."*
+
+---
+
+## Professional Transition to the World of Data
+
+This repository serves as my professional portfolio, reflecting my strategic transition into the world of data. Through advanced end-to-end projects and specialized postgraduate training, I apply my expertise in data analysis, Business Intelligence, and Big Data architecture to solve complex business and spatial problems.
+
+---
+
+## About Me
+
+I am an architect holding a Master’s degree in Project Management alongside a **Master's degree in Big Data and Artificial Intelligence**. 
+
+My unique background combines over 10 years of international project management experience with advanced data engineering techniques. This trajectory allows me to approach modern tech challenges with a highly strategic, analytical, and spatial perspective—successfully transforming chaotic, raw datasets into informed, impactful, and effective business decisions.
+
+---
+
+## Featured Projects
+
+### **TRIP(U): Emotion-Based Personalized Travel Recommendation System via NLP**
+* **Academic Recognition:** Awarded a **9.13/10** by the academic tribunal, receiving high praise for its originality, visual analytics, and high-impact presentation.
+* **Technical Core:** A complete, production-ready, end-to-end data pipeline that integrates Natural Language Processing (NLP) for emotional context detection, customized recommendation modeling, and advanced Out-of-Distribution (OOD) detection to ensure system robustness.
+* **Visualization:** Features interactive spatial flow maps engineered in Plotly and multi-dimensional radar charts for business metrics.
+
+---
+
+## Repository Objective
+
+The main goal of this workspace is to document and showcase my production-ready developments in data science, advanced analytics, and business intelligence. It includes real-world applications demonstrating how computational tools can be blended with strategic management and spatial analysis to optimize technical and business outcomes.
+
+---
+
+## Tech Stack & Tooling
+
+### Data Analytics & BI
+* **Power BI:** Advanced relational modeling, star schema design, and creation of interactive corporate reports.
+* **Tableau:** Dynamic, accessible data visualization and storytelling dashboards.
+* **Carto:** Spatial, geospatial data analysis, and territorial intelligence.
+
+### Data Engineering & Development
+* **Python:** Advanced data analysis, Machine Learning architecture, NLP modeling, and programmatic process automation.
+* **SQL:** Relational database management, complex queries, and data structuring.
+
+### Cross-Disciplinary Expertise (Architecture & PM)
+*Although my primary focus is data analytics, I leverage an extensive background in structural thinking and agile workflows:*
+* **BIM & Design:** Revit, AutoCAD, SketchUp, 3D Studio Max & Photoshop.
+* **Project Management:** Microsoft Project & Agile Methodologies (Scrum & Kanban frameworks).
+
+---
+
+## Contact & Connect
+
+Let's discuss data, spatial analytics, architecture or potential collaborations!
+
+* **Email:** [jcristobalfdez@gmail.com](mailto:jcristobalfdez@gmail.com)
+* **GitHub:** [JC-datarchitect](https://github.com/JC-datarchitect)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Professional Transition to the World of Data  
 # Transición Profesional hacia el Mundo de los Datos
 
