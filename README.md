@@ -21,9 +21,9 @@ My unique background combines over 10 years of international project management 
 
 ## Featured Projects
 
-### **TRIP(U): Emotion-Based Personalized Travel Recommendation System via NLP**
+**[TRIP_U: Emotion-Based Personalized Travel Recommendation System via NLP](https://github.com/JC-datarchitect/trip-u)** *Master's Thesis (TFM)*. 
 * **Academic Recognition:** Awarded a **9.13/10** by the academic tribunal, receiving high praise for its originality, visual analytics, and high-impact presentation.
-* **Technical Core:** A complete, production-ready, end-to-end data pipeline that integrates Natural Language Processing (NLP) for emotional context detection, customized recommendation modeling, and advanced Out-of-Distribution (OOD) detection to ensure system robustness.
+* **Technical Core:** A complete end-to-end data pipeline that integrates Natural Language Processing (NLP) for emotional context detection, customized recommendation modeling, and advanced Out-of-Distribution (OOD) detection to ensure system robustness.
 * **Visualization:** Features interactive spatial flow maps engineered in Plotly and multi-dimensional radar charts for business metrics.
 
 ---
