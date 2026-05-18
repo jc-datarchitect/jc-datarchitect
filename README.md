@@ -68,4 +68,5 @@ Let's discuss data, spatial analytics, architecture or potential collaborations!
 
 * **Email:** [jcristobalfdez@gmail.com](mailto:jcristobalfdez@gmail.com)
 * **GitHub:** [JC-datarchitect](https://github.com/JC-datarchitect)
+* **Languages:** Spanish (Native) | English (Professional)
 
