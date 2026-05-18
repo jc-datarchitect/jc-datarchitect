@@ -26,7 +26,7 @@ My unique background combines over 10 years of international project management 
 * **Technical Core:** A complete end-to-end data pipeline that integrates Natural Language Processing (NLP) for emotional context detection, customized recommendation modeling, and advanced Out-of-Distribution (OOD) detection to ensure system robustness.
 * **Visualization:** Features interactive spatial flow maps engineered in Plotly and multi-dimensional radar charts for business metrics.
 
-**[RBW BOX: Algorithmic Traceability System for Generative Architecture Environments](https://github.com/JC-datarchitect/rbw-box)** *Master's Research & Framework*
+**[RBW BOX: Algorithmic Traceability System for Generative Architecture Environments](https://github.com/JC-datarchitect/rbw_box)** *Master's Research & Framework*
 * **Core Investigation:** A multifaceted research project developed during the Master's program exploring the social, creative, and epistemological boundaries of automated computational design and human-AI architectural authorship.
 * **The Empirical Pipeline:** Implements a quantitative data pipeline that structures, cleans, and standardizes socio-technical survey variables, transforming raw text-based inputs into a mature dimensional model (star schema) inside Power BI.
 * **The Structural Proposal:** Prototypes an Algorithmic Traceability System via a relational SQL schema designed to log data provenance, trace human-AI design lineage, and ensure transparent workflows in generative environments.
