@@ -26,6 +26,11 @@ My unique background combines over 10 years of international project management 
 * **Technical Core:** A complete end-to-end data pipeline that integrates Natural Language Processing (NLP) for emotional context detection, customized recommendation modeling, and advanced Out-of-Domain (OOD) detection to ensure system robustness.
 * **Visualization:** Features interactive spatial flow maps engineered in Plotly and multi-dimensional radar charts for business metrics.
 
+**[AXIS Studio: Corporate Real Estate Portfolio & Operational Analytics](https://github.com/JC-datarchitect/axis_portfolio_analytics)** *Business Intelligence Framework*
+* **The Business Context:** An enterprise-scale portfolio intelligence system designed to optimize multi-regional asset deployment, pipeline management, and corporate resource allocation across US and Central American hubs.
+* **The Technical Pipeline:** Engineers a robust Star Schema Data Warehouse integrating building specifications, financial margins, and labor timesheets to audit profitability and mitigate operational budget slippages.
+* **Advanced Visualization:** Deploys executive dashboards and Python analytics, featuring 100% Stacked Charts for pipeline health diagnostics and interactive Folium maps for macro-regional Location Intelligence.
+
 **[RBW BOX: Algorithmic Traceability System for Generative Architecture Environments](https://github.com/JC-datarchitect/rbw_box)** *Master's Research & Framework*
 * **Core Investigation:** A multifaceted research project developed during the Master's program exploring the social, creative, and epistemological boundaries of automated computational design and human-AI architectural authorship.
 * **The Empirical Pipeline:** Implements a quantitative data pipeline that structures, cleans, and standardizes socio-technical survey variables, transforming raw text-based inputs into a mature dimensional model (star schema) inside Power BI.
