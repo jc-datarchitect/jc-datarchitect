@@ -21,22 +21,22 @@ My unique background combines over 10 years of international project management 
 
 ## Featured Projects
 
-**[TRIP(U): Emotion-Based Personalized Travel Recommendation System via NLP](https://github.com/JC-datarchitect/trip-u)** *Master's Thesis (TFM)*. 
+**[TRIP(U): Emotion-Based Personalized Travel Recommendation System via NLP](https://github.com/JC-datarchitect/trip-u)** - *Master's Thesis (TFM)*. 
 * **Academic Recognition:** Awarded a **9.13/10** by the academic tribunal, receiving high praise for its originality, visual analytics, and high-impact presentation.
 * **Technical Core:** A complete end-to-end data pipeline that integrates Natural Language Processing (NLP) for emotional context detection, customized recommendation modeling, and advanced Out-of-Domain (OOD) detection to ensure system robustness.
 * **Visualization:** Features interactive spatial flow maps engineered in Plotly and multi-dimensional radar charts for business metrics.
 
-**[AXIS Studio: Corporate Real Estate Portfolio & Operational Analytics](https://github.com/JC-datarchitect/axis_portfolio_analytics)** *Business Intelligence Framework*
+**[AXIS Studio: Corporate Real Estate Portfolio & Operational Analytics](https://github.com/JC-datarchitect/axis_portfolio_analytics)** - *Business Intelligence Framework*
 * **The Business Context:** An enterprise-scale portfolio intelligence system designed to optimize multi-regional asset deployment, pipeline management, and corporate resource allocation across US and Central American hubs.
 * **The Technical Pipeline:** Engineers a robust Star Schema Data Warehouse integrating building specifications, financial margins, and labor timesheets to audit profitability and mitigate operational budget slippages.
 * **Advanced Visualization:** Deploys executive dashboards and Python analytics, featuring 100% Stacked Charts for pipeline health diagnostics and interactive Folium maps for macro-regional Location Intelligence.
 
-**[RBW BOX: Algorithmic Traceability System for Generative Architecture Environments](https://github.com/JC-datarchitect/rbw_box)** *Master's Research & Framework*
+**[RBW BOX: Algorithmic Traceability System for Generative Architecture Environments](https://github.com/JC-datarchitect/rbw_box)** - *Master's Research & Framework*
 * **Core Investigation:** A multifaceted research project developed during the Master's program exploring the social, creative, and epistemological boundaries of automated computational design and human-AI architectural authorship.
 * **The Empirical Pipeline:** Implements a quantitative data pipeline that structures, cleans, and standardizes socio-technical survey variables, transforming raw text-based inputs into a mature dimensional model (star schema) inside Power BI.
 * **The Structural Proposal:** Prototypes an Algorithmic Traceability System via a relational SQL schema designed to log data provenance, trace human-AI design lineage, and ensure transparent workflows in generative environments.
 
-**[Social Data Storytelling: Can Education Prevent Hate?](https://github.com/JC-datarchitect/social_data_storytelling)** *Advanced Data Visualization Project*
+**[Social Data Storytelling: Can Education Prevent Hate?](https://github.com/JC-datarchitect/social_data_storytelling)** - *Advanced Data Visualization Project*
 * **Academic Recognition:** Awarded a near-perfect **9.9/10 (Matrícula de Honor)**, recognized as the top-tier capstone project for the Data Visualization module.
 * **The Core Investigation:** Built with a strong emphasis on *Data Storytelling*, this project transforms raw data into a compelling journalistic narrative. It analyzes the complex, non-linear relationships between hate crimes, educational levels, and social awareness metrics using real-world regional datasets.
 * **Technical Analytics:** Developed entirely in Python, leveraging libraries such as Matplotlib, Seaborn, and Plotly to engineer advanced, high-impact visualizations and exploratory charts that expose deep, counterintuitive socio-political insights.
