@@ -22,7 +22,7 @@ My unique background combines over 14 years of international project management 
 ## Featured Projects
 
 ### [TRIP(U): Emotion-Based Travel Recommendation System](https://github.com/JC-datarchitect/trip-u)
-***Master’s Thesis Project***
+***Master’s Thesis Project*** - *graded 9.13/10 for its originality and interdisciplinary approach*
 
 A personalized travel recommendation system combining NLP, emotion detection, and recommendation logic to explore how user sentiment can improve travel suggestions.
 
