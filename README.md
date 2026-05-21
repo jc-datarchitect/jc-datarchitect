@@ -49,7 +49,7 @@ Research-oriented project exploring transparency, traceability, and data governa
 ---
 
 ### [Social Data Storytelling: Can Education Prevent Hate?](https://github.com/JC-datarchitect/social_data_storytelling)
-***Data Visualization Project***
+***Data Visualization Project*** - *Awarded with Honors (Matrícula de Honor)*
 
 Data storytelling project analyzing possible relationships between education, regional development, and hate crime indicators through exploratory visualization.
 
