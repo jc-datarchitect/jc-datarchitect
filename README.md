@@ -1,5 +1,5 @@
 # Javier Cristóbal Fernández
-### Architect & Urban Designer ➔ Big Data & BI Analyst
+### Architect & Urban Designer ➔ Business Intelligence & Data Analytics
 
 > *"I am an architect who thinks with data and an analyst who designs with spatial vision."*
 
