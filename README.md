@@ -22,7 +22,7 @@ My unique background combines over 14 years of international project management 
 ## Featured Projects
 
 ### [TRIP(U): Emotion-Based Travel Recommendation System](https://github.com/JC-datarchitect/trip-u)
-*Master’s Thesis Project*
+***Master’s Thesis Project***
 
 A personalized travel recommendation system combining NLP, emotion detection, and recommendation logic to explore how user sentiment can improve travel suggestions.
 
@@ -31,7 +31,7 @@ A personalized travel recommendation system combining NLP, emotion detection, an
 ---
 
 ### [AXIS Studio: Real Estate Portfolio Analytics](https://github.com/JC-datarchitect/axis_portfolio_analytics)
-*Business Intelligence & Operational Analytics Project*
+***Business Intelligence & Operational Analytics Project***
 
 Business Intelligence project focused on portfolio tracking, operational KPIs, and resource allocation for a multi-regional architecture and real estate environment.
 
@@ -40,7 +40,7 @@ Business Intelligence project focused on portfolio tracking, operational KPIs, a
 ---
 
 ### [RBW BOX: AI Traceability in Generative Architecture](https://github.com/JC-datarchitect/rbw_box)
-*Research & Data Governance Project*
+***Research & Data Governance Project***
 
 Research-oriented project exploring transparency, traceability, and data governance in AI-assisted architectural design workflows.
 
@@ -49,7 +49,7 @@ Research-oriented project exploring transparency, traceability, and data governa
 ---
 
 ### [Social Data Storytelling: Can Education Prevent Hate?](https://github.com/JC-datarchitect/social_data_storytelling)
-*Data Visualization Project*
+***Data Visualization Project***
 
 Data storytelling project analyzing possible relationships between education, regional development, and hate crime indicators through exploratory visualization.
 
@@ -58,7 +58,7 @@ Data storytelling project analyzing possible relationships between education, re
 ---
 
 ### [Lexicon Architecture: Technical Taxonomy & Data Governance](https://github.com/jc-datarchitect/lexicon_arch)
-*Data Governance & Documentation Project*
+***Data Governance & Documentation Project***
 
 Bilingual technical taxonomy and documentation framework designed to improve consistency and terminology management across architecture and infrastructure workflows.
 
@@ -67,7 +67,7 @@ Bilingual technical taxonomy and documentation framework designed to improve con
 ---
 
 ### [NORDIK Seguros: Customer Segmentation Analysis](https://github.com/JC-datarchitect/nordik_customer_segmentation)
-*Machine Learning & Customer Analytics Project*
+***Machine Learning & Customer Analytics Project***
 
 Customer segmentation project using unsupervised learning techniques to identify behavioral patterns and support data-driven insurance campaign strategies.
 
