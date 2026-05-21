@@ -41,6 +41,11 @@ My unique background combines over 10 years of international project management 
 * **The Core Investigation:** Built with a strong emphasis on *Data Storytelling*, this project transforms raw data into a compelling journalistic narrative. It analyzes the complex, non-linear relationships between hate crimes, educational levels, and social awareness metrics using real-world regional datasets.
 * **Technical Analytics:** Developed entirely in Python, leveraging libraries such as Matplotlib, Seaborn, and Plotly to engineer advanced, high-impact visualizations and exploratory charts that expose deep, counterintuitive socio-political insights.
 
+**[Lexicon Architecture: Technical Taxonomy & Governance](https://github.com/jc-datarchitect/lexicon_arch)** - *Data Governance Framework*
+* **The Core Value:** A centralized, bilingual (English-Spanish) technical taxonomy serving as the Single Source of Truth (SSOT) to eliminate linguistic ambiguity in international AEC workflows.
+* **Operational Efficiency:** Engineered to streamline onboarding and maintain high-fidelity standards in BIM documentation, technical specifications, and project management.
+* **Technical Integrity:** Implements a rigorous governance framework utilizing audited CSV data structures, normative compliance references, and structured contribution pathways to ensure long-term data consistency.
+
 ---
 
 ## Repository Objective
