@@ -5,9 +5,9 @@
 
 ---
 
-## Professional Transition to the World of Data
+## Data Analytics & Strategic Overview
 
-This repository serves as my professional portfolio, reflecting my strategic transition into the world of data. Through advanced end-to-end projects and specialized postgraduate training, I apply my expertise in data analysis, Business Intelligence, and Big Data architecture to solve complex business and spatial problems.
+This repository serves as my professional portfolio, documenting how I integrate data analytics and machine learning into my background in project management and spatial design. Here, you will find end-to-end projects developed during my specialized postgraduate training, focused on solving business and operational problems through data.
 
 ---
 
@@ -15,7 +15,7 @@ This repository serves as my professional portfolio, reflecting my strategic tra
 
 I am an architect holding a Master’s degree in Project Management alongside a **Master's degree in Big Data and Artificial Intelligence**. 
 
-My unique background combines over 10 years of international project management experience with advanced data engineering techniques. This trajectory allows me to approach modern tech challenges with a highly strategic, analytical, and spatial perspective—successfully transforming chaotic, raw datasets into informed, impactful, and effective business decisions.
+My unique background combines over 14 years of international project management experience with advanced data engineering techniques. This trajectory allows me to approach modern tech challenges with a highly strategic, analytical, and spatial perspective—successfully transforming chaotic, raw datasets into informed, impactful, and effective business decisions.
 
 ---
 
@@ -61,7 +61,7 @@ The main goal of this workspace is to document and showcase my production-ready 
 
 ## Tech Stack & Tooling
 
-### Data Analytics & BI
+### Business Intelligence & Spatial Analytics
 * **Power BI:** Advanced relational modeling, star schema design, and creation of interactive corporate reports.
 * **Tableau:** Dynamic, accessible data visualization and storytelling dashboards.
 * **Carto:** Spatial, geospatial data analysis, and territorial intelligence.
