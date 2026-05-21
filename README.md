@@ -46,9 +46,9 @@ My unique background combines over 10 years of international project management 
 * **The Technical Pipeline:** Establishes a Master Data Management (MDM) structure utilizing audited data frameworks, normative compliance references, and version-controlled contribution pathways.
 * **Analytics & Visualization:** Engineered to streamline cross-regional team onboarding, eliminate documentation friction, and maintain high-fidelity data integrity across BIM and asset management ecosystems.
 
-**[NORDIK Seguros: Customer Segment Intelligence Framework via Unsupervised ML](https://github.com/JC-datarchitect/nordik_customer_segmentation)** - ***Enterprise Analytics Framework***
+**[NORDIK Seguros: Customer Segment Intelligence Framework via Unsupervised ML](https://github.com/JC-datarchitect/nordik_customer_segmentation)** - ***Unsupervised Machine Learning Framework***
 * **The Business Context:** A data-driven customer intelligence architecture engineered for NORDIK Seguros to optimize multi-regional housing insurance campaigns, mitigate financial portfolio risks, and drive hyper-personalized cross-selling strategies.
-* **The Technical Pipeline:** Deploys an end-to-end **12-stage unsupervised learning pipeline** featuring target indicator isolation, custom high-cardinality categorical *binning*, mathematical outlier cluster segregation, and automated StandardScaler feature normalization.
+* **The Technical Pipeline:** Deploys an end-to-end **11-stage unsupervised learning pipeline** featuring target indicator isolation, custom high-cardinality categorical *binning*, mathematical outlier cluster segregation, and automated StandardScaler feature normalization.
 * **Analytics & Visualization:** Leverages Principal Component Analysis (PCA) for variance optimization, validating structural cluster density ($K$) via the Elbow Method and Silhouette Coefficients, while profiling final segments against real-world conversion metrics.
 
 ---
