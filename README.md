@@ -15,7 +15,7 @@ This repository serves as my professional portfolio, documenting how I integrate
 
 I am an architect holding a Master’s degree in Project Management alongside a **Master's degree in Big Data and Artificial Intelligence**. 
 
-My unique background combines over 14 years of international project management experience with advanced data engineering techniques. This trajectory allows me to approach modern tech challenges with a highly strategic, analytical, and spatial perspective—successfully transforming chaotic, raw datasets into informed, impactful, and effective business decisions.
+My unique background combines over 10 years of international project management experience with advanced data engineering techniques. This trajectory allows me to approach modern tech challenges with a highly strategic, analytical, and spatial perspective—successfully transforming chaotic, raw datasets into informed, impactful, and effective business decisions.
 
 ---
 
