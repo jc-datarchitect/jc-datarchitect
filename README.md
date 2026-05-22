@@ -5,12 +5,6 @@
 
 ---
 
-## Data-Driven Strategy & Spatial Intelligence
-
-This repository serves as my professional portfolio, documenting how I integrate data analytics and machine learning into my background in project management and spatial design. Here, you will find end-to-end projects developed during my specialized postgraduate training, focused on solving business and operational problems through data.
-
----
-
 ## About Me
 
 I am an architect holding a Master’s degree in Project Management alongside a **Master's degree in Big Data and Artificial Intelligence**. 
