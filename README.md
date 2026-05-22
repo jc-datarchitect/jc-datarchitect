@@ -9,7 +9,7 @@
 
 I am an architect holding a Master’s degree in Project Management alongside a **Master's degree in Big Data and Artificial Intelligence**. 
 
-My profile is built on a solid foundation of **over 14 years of international experience in Project Management** and Architectural design, which I have **now augmented with advanced technical capabilities in data engineering and machine learning**.
+My profile is built on a solid foundation of **over 10 years of international experience in Project Management** and Architectural design, which I have **now augmented with advanced technical capabilities in data engineering and machine learning**.
 
 This **hybrid background** allows me to approach modern tech challenges with a **unique dual perspective**: I combine the strategic, high-stakes decision-making of a veteran project manager with the analytical rigor of a data scientist.
 
