@@ -71,7 +71,7 @@ Bilingual technical taxonomy and documentation framework designed to improve con
 
 Customer segmentation project using unsupervised learning techniques to identify behavioral patterns and support data-driven insurance campaign strategies.
 
-**Tools & Topics:** Python, clustering, PCA, feature engineering, customer analytics.
+**Tools & Topics:** Python, clustering, feature engineering, customer analytics.
 
 ---
 
