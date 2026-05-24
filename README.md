@@ -27,7 +27,7 @@ A personalized travel recommendation system combining NLP, emotion detection, an
 ---
 
 ### [AXIS Studio: Real Estate Portfolio Analytics](https://github.com/JC-datarchitect/axis_portfolio_analytics)
-***Business Intelligence & Operational Analytics Project***
+***Business Intelligence & Operational Analytics***
 
 Business Intelligence project focused on portfolio tracking, operational KPIs, and resource allocation for a multi-regional architecture and real estate environment.
 
