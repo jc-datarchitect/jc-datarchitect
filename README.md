@@ -35,6 +35,15 @@ Business Intelligence project focused on portfolio tracking, operational KPIs, a
 
 ---
 
+### [NORDIK Seguros: Customer Segmentation Analysis](https://github.com/JC-datarchitect/nordik_customer_segmentation)
+***Machine Learning & Customer Analytics Project***
+
+Customer segmentation project using unsupervised learning techniques to identify behavioral patterns and support data-driven insurance campaign strategies.
+
+**Tools & Topics:** Python, clustering, feature engineering, customer analytics.
+
+---
+
 ### [RBW BOX: AI Traceability in Generative Architecture](https://github.com/JC-datarchitect/rbw_box)
 ***Research & Data Traceability Project***
 
@@ -59,15 +68,6 @@ Data storytelling project analyzing possible relationships between education, re
 Bilingual technical taxonomy and documentation framework designed to improve consistency and terminology management across architecture and infrastructure workflows.
 
 **Tools & Topics:** Master data management, documentation systems, governance frameworks, BIM terminology.
-
----
-
-### [NORDIK Seguros: Customer Segmentation Analysis](https://github.com/JC-datarchitect/nordik_customer_segmentation)
-***Machine Learning & Customer Analytics Project***
-
-Customer segmentation project using unsupervised learning techniques to identify behavioral patterns and support data-driven insurance campaign strategies.
-
-**Tools & Topics:** Python, clustering, feature engineering, customer analytics.
 
 ---
 
