@@ -62,7 +62,7 @@ Data storytelling project analyzing possible relationships between education, re
 
 ---
 
-### [Lexicon Architecture: Technical Taxonomy & Data Governance](https://github.com/jc-datarchitect/lexicon_arch)
+### [LEXICONARCH: Technical Taxonomy & Data Governance](https://github.com/jc-datarchitect/lexicon_arch)
 ***Data Governance & Documentation Project***
 
 Bilingual technical taxonomy and documentation framework designed to improve consistency and terminology management across architecture and infrastructure workflows.
