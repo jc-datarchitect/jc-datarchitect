@@ -36,7 +36,7 @@ Business Intelligence project focused on portfolio tracking, operational KPIs, a
 ---
 
 ### [NORDIK Seguros: Customer Segmentation Analysis](https://github.com/JC-datarchitect/nordik_customer_segmentation)
-***Machine Learning & Customer Analytics Project***
+***Machine Learning & Customer Analytics***
 
 Customer segmentation project using unsupervised learning techniques to identify behavioral patterns and support data-driven insurance campaign strategies.
 
