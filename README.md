@@ -36,7 +36,7 @@ Business Intelligence project focused on portfolio tracking, operational KPIs, a
 ---
 
 ### [RBW BOX: AI Traceability in Generative Architecture](https://github.com/JC-datarchitect/rbw_box)
-***Research & Data Governance Project***
+***Research & Data Traceability Project***
 
 Research-oriented project exploring transparency, traceability, and data governance in AI-assisted architectural design workflows.
 
