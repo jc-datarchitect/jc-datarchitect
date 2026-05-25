@@ -79,19 +79,17 @@ The main goal of this workspace is to document and showcase my production-ready 
 
 ## Tech Stack & Tooling
 
-## Tech Stack & Tooling
-
 ### Business Intelligence & Spatial Analytics
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/CARTO-000000?style=for-the-badge&logo=carto&logoColor=white" />
 
 ### Data Engineering & Development
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 ### Project Management
 <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-0073AA?style=for-the-badge&logo=agile&logoColor=white" /> <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum-0073AA?style=for-the-badge&logo=scrum&logoColor=white" />
 
 ### Architecture & Design
-<img src="https://img.shields.io/badge/BIM-111111?style=for-the-badge&logo=bim&logoColor=white" /> <img src="https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white" /> <img src="https://img.shields.io/badge/SketchUp-FFB700?style=for-the-badge&logo=sketchup&logoColor=white" /> <img src="https://img.shields.io/badge/3ds_Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/BIM-000000?style=for-the-badge&logo=bim&logoColor=white" /> <img src="https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white" /> <img src="https://img.shields.io/badge/SketchUp-FFB700?style=for-the-badge&logo=sketchup&logoColor=white" /> <img src="https://img.shields.io/badge/3ds_Max-47A025?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 
 
 
