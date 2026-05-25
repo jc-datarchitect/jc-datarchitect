@@ -79,6 +79,24 @@ The main goal of this workspace is to document and showcase my production-ready 
 
 ## Tech Stack & Tooling
 
+## Tech Stack & Tooling
+
+### Business Intelligence & Spatial Analytics
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/CARTO-000000?style=for-the-badge&logo=carto&logoColor=white" />
+
+### Data Engineering & Development
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### Cross-Disciplinary Expertise (Architecture & PM)
+<img src="https://img.shields.io/badge/Autodesk_Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum-0073AA?style=for-the-badge&logo=scrum&logoColor=white" />
+
+
+
+
+
+
+
+
 ### Business Intelligence & Spatial Analytics
 * **Power BI:** Advanced relational modeling, star schema design, and creation of interactive corporate reports.
 * **Tableau:** Dynamic, accessible data visualization and storytelling dashboards.
