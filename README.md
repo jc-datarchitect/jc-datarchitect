@@ -29,7 +29,7 @@ This **hybrid background** allows me to approach modern tech challenges with a *
 ### Project Management
 <img src="https://img.shields.io/badge/MS_Project-212121?style=for-the-badge&logo=microsoft-project&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-424242?style=for-the-badge&logo=agile&logoColor=white" /> <img src="https://img.shields.io/badge/Kanban-616161?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum-9E9E9E?style=for-the-badge&logo=scrum&logoColor=white" />
 
-### Architecture & Design
+### Architecture & Design (Cross-Disciplinary Expertise)
 <img src="https://img.shields.io/badge/BIM-0D47A1?style=for-the-badge&logo=bim&logoColor=white" /> <img src="https://img.shields.io/badge/Revit-1565C0?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/AutoCAD-1976D2?style=for-the-badge&logo=autocad&logoColor=white" /> <img src="https://img.shields.io/badge/SketchUp-2196F3?style=for-the-badge&logo=sketchup&logoColor=white" /> <img src="https://img.shields.io/badge/3ds_Max-42A5F5?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-64B5F6?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 
 ---
