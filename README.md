@@ -44,6 +44,15 @@ Customer segmentation project using unsupervised learning techniques to identify
 
 ---
 
+### [LEXICONARCH: Technical Taxonomy & Data Governance](https://github.com/jc-datarchitect/lexicon_arch)
+***Data Governance & Documentation Project***
+
+Bilingual technical taxonomy and documentation framework designed to improve consistency and terminology management across architecture and infrastructure workflows.
+
+**Tools & Topics:** Master data management, documentation systems, governance frameworks, BIM terminology.
+
+---
+
 ### [RBW BOX: AI Traceability in Generative Architecture](https://github.com/JC-datarchitect/rbw_box)
 ***Research & Data Traceability Project***
 
@@ -59,15 +68,6 @@ Research-oriented project exploring transparency, traceability, and data governa
 Data storytelling project analyzing possible relationships between education, regional development, and hate crime indicators through exploratory visualization.
 
 **Tools & Topics:** Python, Matplotlib, Seaborn, Plotly, social data analysis, storytelling.
-
----
-
-### [LEXICONARCH: Technical Taxonomy & Data Governance](https://github.com/jc-datarchitect/lexicon_arch)
-***Data Governance & Documentation Project***
-
-Bilingual technical taxonomy and documentation framework designed to improve consistency and terminology management across architecture and infrastructure workflows.
-
-**Tools & Topics:** Master data management, documentation systems, governance frameworks, BIM terminology.
 
 ---
 
