@@ -34,6 +34,31 @@ This **hybrid background** allows me to approach modern tech challenges with a *
 
 ---
 
+## Tech Stack & Tooling
+
+**Business Intelligence & Spatial Analytics**
+<img src="https://img.shields.io/badge/Power_BI-E65100?style=for-the-badge&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-FB8C00?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/CARTO-FFB300?style=for-the-badge&logo=carto&logoColor=white" />
+
+**Data Engineering & Development**
+<br>
+<img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2E7D32?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-43A047?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-66BB6A?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-81C784?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-A5D6A7?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+**Data Science & Machine Learning**
+<br>
+<img src="https://img.shields.io/badge/Scikit_Learn-B71C1C?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-C62828?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-D32F2F?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/NLP-E53935?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-EF5350?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-E57373?style=for-the-badge&logo=python&logoColor=white" />
+
+**Project Management**
+<br>
+<img src="https://img.shields.io/badge/MS_Project-212121?style=for-the-badge&logo=microsoft-project&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-424242?style=for-the-badge&logo=agile&logoColor=white" /> <img src="https://img.shields.io/badge/Kanban-616161?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum-9E9E9E?style=for-the-badge&logo=scrum&logoColor=white" />
+
+**Architecture & Design**
+<br>
+<img src="https://img.shields.io/badge/BIM-0D47A1?style=for-the-badge&logo=bim&logoColor=white" /> <img src="https://img.shields.io/badge/Revit-1565C0?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/AutoCAD-1976D2?style=for-the-badge&logo=autocad&logoColor=white" /> <img src="https://img.shields.io/badge/SketchUp-2196F3?style=for-the-badge&logo=sketchup&logoColor=white" /> <img src="https://img.shields.io/badge/3ds_Max-42A5F5?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-64B5F6?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+
+
+
+
+
 ## Featured Projects
 
 ### [TRIP(U): Emotion-Based Travel Recommendation System](https://github.com/JC-datarchitect/trip-u)
