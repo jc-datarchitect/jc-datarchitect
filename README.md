@@ -116,6 +116,7 @@ The main goal of this workspace is to document and showcase my production-ready 
 ## Contact & Connect
 
 Let's discuss data, spatial analytics, architecture or potential collaborations!
+* **Languages:** Spanish (Native) | English (Professional)
 
 <a href="mailto:jcristobalfdez@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -123,8 +124,6 @@ Let's discuss data, spatial analytics, architecture or potential collaborations!
 <a href="https://github.com/JC-datarchitect?tab=repositories">
   <img src="https://img.shields.io/badge/Check_My_Repos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
-
-* **Languages:** Spanish (Native) | English (Professional)
 
 
 
