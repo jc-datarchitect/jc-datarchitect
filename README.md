@@ -31,7 +31,7 @@ A personalized travel recommendation system combining NLP, emotion detection, an
 
 Business Intelligence solution for AXIS Studio, an architectural design firm specializing in building development. Processes operational data via Python into a Power BI Star Schema to analyze KPIs, project delays and financial performance
 
-**Tools & Topics:** Power BI, SQL, dimensional modeling, Folium, portfolio analytics, dashboard design.
+**Tools & Topics:** Power BI, SQL, dimensional modeling, star schema, portfolio analytics, dashboard design.
 
 ---
 
