@@ -91,28 +91,8 @@ The main goal of this workspace is to document and showcase my production-ready 
 ### Project Management
 <img src="https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-0073AA?style=for-the-badge&logo=agile&logoColor=white" /> <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum-0073AA?style=for-the-badge&logo=scrum&logoColor=white" />
 
-### Architecture & Design
+### Architecture & Design (Cross-Disciplinary Expertise)
 <img src="https://img.shields.io/badge/BIM-000000?style=for-the-badge&logo=bim&logoColor=white" /> <img src="https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white" /> <img src="https://img.shields.io/badge/SketchUp-FFB700?style=for-the-badge&logo=sketchup&logoColor=white" /> <img src="https://img.shields.io/badge/3ds_Max-47A025?style=for-the-badge&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-
-
-
-
-
-
-
-### Business Intelligence & Spatial Analytics
-* **Power BI:** Advanced relational modeling, star schema design, and creation of interactive corporate reports.
-* **Tableau:** Dynamic, accessible data visualization and storytelling dashboards.
-* **Carto:** Spatial, geospatial data analysis, and territorial intelligence.
-
-### Data Engineering & Development
-* **Python:** Advanced data analysis, Machine Learning architecture, NLP modeling, and programmatic process automation.
-* **SQL:** Relational database management, complex queries, and data structuring.
-
-### Cross-Disciplinary Expertise (Architecture & PM)
-*Although my primary focus is data analytics, I leverage an extensive background in structural thinking and agile workflows:*
-* **BIM & Design:** Revit, AutoCAD, SketchUp, 3D Studio Max & Photoshop.
-* **Project Management:** Microsoft Project & Agile Methodologies (Scrum & Kanban frameworks).
 
 ---
 
@@ -127,18 +107,3 @@ Let's discuss data, spatial analytics, architecture or potential collaborations!
 <a href="https://github.com/JC-datarchitect?tab=repositories">
   <img src="https://img.shields.io/badge/Check_My_Repos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
-
-
-
-
-
-
-
-## Contact & Connect
-
-Let's discuss data, spatial analytics, architecture or potential collaborations!
-
-* **Email:** [jcristobalfdez@gmail.com](mailto:jcristobalfdez@gmail.com)
-* **GitHub:** [JC-datarchitect](https://github.com/JC-datarchitect)
-* **Languages:** Spanish (Native) | English (Professional)
-
