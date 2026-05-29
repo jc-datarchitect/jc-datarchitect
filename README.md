@@ -90,6 +90,15 @@ Data storytelling project analyzing possible relationships between education, re
 
 ---
 
+### [Architect Bullshit Generator](https://github.com/JC-datarchitect/architect_bullshit_generator)
+***Satirical Web Application & Procedural Text Generation***
+
+A satirical application that mimics the inflated, pretentious language of architectural discourse. Built as an exercise in self-parody, this project showcases full-stack deployment capabilities and procedural text generation logic.
+
+**Tools & Topics:** Python, Streamlit, Cloud Deployment, Procedural Text Generation.
+
+---
+
 ## Repository Objective
 
 The main goal of this workspace is to document and showcase my production-ready developments in data science, advanced analytics, and business intelligence. It includes real-world applications demonstrating how computational tools can be blended with strategic management and spatial analysis to optimize technical and business outcomes.
