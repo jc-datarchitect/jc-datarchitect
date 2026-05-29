@@ -99,12 +99,6 @@ A satirical application that mimics the inflated, pretentious language of archit
 
 ---
 
-## Repository Objective
-
-The main goal of this workspace is to document and showcase my production-ready developments in data science, advanced analytics, and business intelligence. It includes real-world applications demonstrating how computational tools can be blended with strategic management and spatial analysis to optimize technical and business outcomes.
-
----
-
 ## Contact & Connect
 
 Let's discuss data, spatial analytics, architecture or potential collaborations!
