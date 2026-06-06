@@ -68,7 +68,7 @@ Customer segmentation project using unsupervised learning techniques to identify
 
 A specialized travel planning application for architects that generates custom urban itineraries based on high-value architectural sites. Features include dual-mode routing (Essentials vs. Academic), interactive geospatial mapping, and automated site documentation.
 
-**Tools & Topics:** Python, Streamlit, Folium, Geospatial Analysis, JSON Data Management, Cloud Deployment.
+**Tools & Topics:** Live App, Python, Streamlit, Folium, Geospatial Analysis, JSON Data Management, Cloud Deployment.
 
 ---
 
@@ -104,7 +104,7 @@ Data storytelling project analyzing possible relationships between education, re
 
 A satirical application that mimics the inflated, pretentious language of architectural discourse. Built as an exercise in self-parody, this project showcases full-stack deployment capabilities and procedural text generation logic.
 
-**Tools & Topics:** Python, Streamlit, Cloud Deployment, Procedural Text Generation.
+**Tools & Topics:** Live App, Python, Streamlit, Cloud Deployment, Procedural Text Generation.
 
 ---
 
