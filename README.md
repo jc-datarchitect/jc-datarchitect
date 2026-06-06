@@ -63,7 +63,7 @@ Customer segmentation project using unsupervised learning techniques to identify
 
 ---
 
-### [The Traveling Architect: Architectural Tour Planner](https://the-traveling-architect.streamlit.app/)
+### [THE TRAVELLING ARCHITECT: Architectural Tour Planner](https://the-traveling-architect.streamlit.app/)
 ***Geospatial & Architectural Travel Tool***
 
 A specialized travel planning application for architects that generates custom urban itineraries based on high-value architectural sites. Features include dual-mode routing (Essentials vs. Academic), interactive geospatial mapping, and automated site documentation.
