@@ -21,9 +21,6 @@ This **hybrid background** allows me to approach modern tech challenges with a *
 <img src="https://img.shields.io/badge/Power_BI-E65100?style=for-the-badge&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-FB8C00?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/CARTO-FFB300?style=for-the-badge&logo=carto&logoColor=white" />
 
 ### Data Engineering & Development
-<img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2E7D32?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-43A047?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-66BB6A?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-81C784?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-A5D6A7?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-### Data Engineering & Development
 <img src="https://img.shields.io/badge/Python-1B5E20?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-226625?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-2E7D32?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-388E3C?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-43A047?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-4CAF50?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-57BB5A?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 ### Data Science & Machine Learning
