@@ -64,7 +64,7 @@ Customer segmentation project using unsupervised learning techniques to identify
 ---
 
 ### [THE TRAVELING ARCHITECT: Architectural Tour Planner](https://github.com/JC-datarchitect/the-traveling-architect)
-***Geospatial Web Application for Optimized Architectural Travel***
+***Geospatial Web Application for Optimized Architectural Travel***  
 **[🔗 Visit Live Application](https://the-traveling-architect.streamlit.app/)**
 
 A specialized travel planning application for architects that generates custom urban itineraries based on high-value architectural sites. Features include dual-mode routing (Essentials vs. Academic), interactive geospatial mapping, and automated site documentation.
@@ -101,7 +101,7 @@ Data storytelling project analyzing possible relationships between education, re
 ---
 
 ### [ABG: Architect Bullshit Generator](https://github.com/JC-datarchitect/architect_bullshit_generator)
-***Satirical Web Application & Procedural Text Generation***
+***Satirical Web Application & Procedural Text Generation***  
 **[🔗 Visit Live Application](https://architect-bs-generator.streamlit.app/)**
 
 A satirical application that mimics the inflated, pretentious language of architectural discourse. Built as an exercise in self-parody, this project showcases full-stack deployment capabilities and procedural text generation logic.
