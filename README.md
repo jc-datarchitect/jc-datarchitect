@@ -64,8 +64,7 @@ Customer segmentation project using unsupervised learning techniques to identify
 ---
 
 ### [THE TRAVELING ARCHITECT: Architectural Tour Planner](https://github.com/JC-datarchitect/the-traveling-architect)
-***Geospatial Web Application for Optimized Architectural Travel***  
-**[🔗 Visit Live Application](https://the-traveling-architect.streamlit.app/)**
+***Geospatial Web Application for Optimized Architectural Travel*** | **[🔗 Visit Live Application](https://the-traveling-architect.streamlit.app/)**
 
 A specialized travel planning application for architects that generates custom urban itineraries based on high-value architectural sites. Features include dual-mode routing (Essentials vs. Academic), interactive geospatial mapping, and automated site documentation.
 
