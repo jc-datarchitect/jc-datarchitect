@@ -103,6 +103,7 @@ Data storytelling project analyzing possible relationships between education, re
 
 ### [ABG: Architect Bullshit Generator](https://github.com/JC-datarchitect/architect_bullshit_generator)
 ***Satirical Web Application & Procedural Text Generation***  
+
 **[🔗 Visit Live App](https://architect-bs-generator.streamlit.app/)**
 
 A satirical application that mimics the inflated, pretentious language of architectural discourse. Built as an exercise in self-parody, this project showcases full-stack deployment capabilities and procedural text generation logic.
